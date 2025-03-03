@@ -1,0 +1,2 @@
+# ChatGPT_Review_Analysis
+in this project  i have gone through various features such as sentiment analysis i.e either the review is positive or negative or nutural, What Users Like About ChatGPT(positive reviews,negative review),how reviews changed over time and NPS is calculated.
